@@ -1,8 +1,3 @@
-# React Loan Interest Calculator
-
-A loan interest calculator made with React.
-
-### Live here: http://react-loan-interest-calculator.netlify.com
 
 ## Features
 
@@ -30,7 +25,6 @@ _Node.JS and npm must be installed. Download and install them from [here](https:
 Follow these steps to run this project in your local computer.
 
 ```
-$ https://github.com/geekysrm/react-loan-interest-calculator.git
 $ cd react-loan-interest-calculator
 $ npm i
 ```
@@ -43,15 +37,3 @@ $ npm start
 
 Go to `http://localhost:3000` to view the app.
 
-## Built With
-
-- [React.JS](https://reactjs.org/) -Frontend library used in the project.
-- [Bootstrap](https://getbootstrap.com/) - Used for basic styling.
-
-## Authors
-
-- **Soumya Ranjan Mohanty** - [geekysrm](https://github.com/geekysrm)
-
-## License
-
-This project is licensed under the MIT License.
